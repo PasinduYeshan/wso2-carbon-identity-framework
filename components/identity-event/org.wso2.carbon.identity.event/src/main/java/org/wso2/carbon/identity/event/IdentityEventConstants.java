@@ -54,6 +54,9 @@ public class IdentityEventConstants {
         public static final String POST_SET_USER_CLAIMS = "POST_SET_USER_CLAIMS";
         public static final String PRE_ADD_USER= "PRE_ADD_USER";
         public static final String POST_ADD_USER= "POST_ADD_USER";
+
+        public static final String PRE_BULK_ADD_USER = "PRE_BULK_ADD_USER";
+        public static final String POST_BULK_ADD_USER = "POST_BULK_ADD_USER";
         public static final String PRE_UPDATE_CREDENTIAL= "PRE_UPDATE_CREDENTIAL";
         public static final String POST_UPDATE_CREDENTIAL= "POST_UPDATE_CREDENTIAL";
         public static final String PRE_UPDATE_CREDENTIAL_BY_ADMIN= "PRE_UPDATE_CREDENTIAL_BY_ADMIN";
